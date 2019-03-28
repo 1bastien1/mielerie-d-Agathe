@@ -11,7 +11,7 @@ IUT Reims-châlon-Charleville Département Informatique
 <hr>
 Dans le cadre de notre projet de semestre 4 dans le cadre de notre DUT Informatique à l'IUT de Reims nous avons conçu un site marchand spécialisé dans la vente de miel. <br>
 Ce site crée a été developpé durant le 4ème semestre de notre DUT Informatique dans la période Janvier - Mars 2019. <br>
-Bâtie sur un modèle MVC à l'aide de Symphony et des bundle mailswifter et FOSuser, il contient une base de donnée fournie en bas de page.
+Bâtie sur un modèle MVC à l'aide de Symphony et des bundles mailswifter et FOSuser, il contient une base de donnée fournie en bas de page.
 <br><br>
 
 - Rendu de l'application côté "administrateur": 
